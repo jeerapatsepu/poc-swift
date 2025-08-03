@@ -148,6 +148,7 @@
 				DEVELOPMENT_TEAM = 25S8UG4ATR;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Aluar POC/Info.plist";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.developer-tools";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -161,7 +162,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "online.aluar.app.aluar.poc.Aluar-POC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_VERSION = 5.0;
+				SWIFT_VERSION = 6.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -176,6 +177,7 @@
 				DEVELOPMENT_TEAM = 25S8UG4ATR;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Aluar POC/Info.plist";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.developer-tools";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -189,7 +191,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "online.aluar.app.aluar.poc.Aluar-POC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_VERSION = 5.0;
+				SWIFT_VERSION = 6.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
